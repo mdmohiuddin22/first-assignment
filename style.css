@@ -117,3 +117,33 @@ line-height: 47px;
     display: flex;
     justify-content: space-between;
 }
+footer{
+    background-color: #151414;
+    width: 1600px;
+height: 577px;
+left: 0px;
+top: 2652.26px;
+}
+footer div{
+    text-color:white
+}
+.Future-title{
+    color:  #F8F8F8;
+    display: flex;
+    justify-content: space-between;
+    margin: 20px;
+    padding: 30px;
+}
+.Future-description{
+    font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 26px;
+width: 485px;
+height: 78px;
+left: 230px;
+top: 2851.26px;
+
+
+color: #FFFFFF;
+}
